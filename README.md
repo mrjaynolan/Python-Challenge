@@ -49,7 +49,7 @@ The `PyPoll` script analyzes data to determine:
 The input data file should be named `election_data.csv` and placed inside a `Resources` directory. The CSV file should have the following columns:
 - `Voters ID`: The unique ID of each voter.
 - `County`: The county of the voter.
-- 'Candidate': The candidate voted for.
+- `Candidate`: The candidate voted for.
 
 ### Output
 
