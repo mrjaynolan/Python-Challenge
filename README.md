@@ -18,13 +18,13 @@ The `PyBank` script performs a financial analysis on a given dataset containing 
 
 ### Input Data
 
-The input data file should be named `budget_data.csv` and placed inside a `Resources` directory. The CSV file should have the following columns:
+The input data file is named `budget_data.csv` and placed inside the `Resources` directory. The CSV file has the following columns:
 - `Date`: The month and year of the data entry.
 - `Profit/Losses`: The profit or loss for the corresponding month.
 
 ### Output
 
-The results are printed to the terminal and saved to a text file named `budget_data_output.txt` in an `analysis` directory.
+The results are printed to the terminal and saved to a text file named `budget_data_output.txt` in the `analysis` directory.
 
 ### Steps to Run the Script
 
@@ -46,14 +46,14 @@ The `PyPoll` script analyzes data to determine:
 
 ### Input Data
 
-The input data file should be named `election_data.csv` and placed inside a `Resources` directory. The CSV file should have the following columns:
+The input data file is named `election_data.csv` and placed inside the `Resources` directory. The CSV file has the following columns:
 - `Voters ID`: The unique ID of each voter.
 - `County`: The county of the voter.
 - `Candidate`: The candidate voted for.
 
 ### Output
 
-The results are printed to the terminal and saved to a text file named `election_data_output.txt` in an `analysis` directory.
+The results are printed to the terminal and saved to a text file named `election_data_output.txt` in the `analysis` directory.
 
 ### Steps to Run the Script
 
